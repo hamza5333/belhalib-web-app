@@ -1,7 +1,7 @@
 {
   "name": "belhalib-web-app",
   "version": "0.1.0",
-  "private": true,
+  "main": "page.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
